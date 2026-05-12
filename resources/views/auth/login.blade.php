@@ -35,7 +35,7 @@
     <div class="relative min-h-screen overflow-hidden">
         {{-- background --}}
         <div class="absolute inset-0">
-            <img src="{{ asset('images/library.jpg') }}" alt="" class="h-full w-full object-cover">
+            <img src="{{ asset('images/pexels-books-1281581.jpg') }}" alt="" class="h-full w-full object-cover">
             <div class="absolute inset-0 bg-white/70 dark:bg-slate-950/75"></div>
         </div>
 

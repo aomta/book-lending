@@ -99,7 +99,7 @@
         {{-- BACKGROUND --}}
         <div class="absolute inset-0">
             <img
-                src="{{ asset('images/library.jpg') }}"
+                src="{{ asset('images/pexels-books-1281581.jpg') }}"
                 alt=""
                 class="h-full w-full object-cover">
 
