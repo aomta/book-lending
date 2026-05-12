@@ -351,11 +351,11 @@
 
                         {{-- LOGIN LINK --}}
                         <div class="text-center text-sm text-slate-600 dark:text-slate-400">
-                            Already have an account?
+                            Sudah punya akun?
 
                             <a href="{{ route('login') }}"
                                 class="font-semibold text-indigo-600 transition hover:text-indigo-500 dark:text-indigo-400">
-                                Login here
+                                Login disini
                             </a>
                         </div>
                     </form>
